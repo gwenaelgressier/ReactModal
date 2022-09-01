@@ -11,7 +11,7 @@ function Modalpop() {
   return (
     <div>
       <Button variant="success" onClick={modalOpen}>
-        Open Modal popup
+        Open Modalpopup
       </Button>
       <Modal show={show} onHide={modalClose}>
         <Modal.Body>
